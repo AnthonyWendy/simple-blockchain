@@ -1,2 +1,2 @@
 # simples-blockchain
-This is a java project to indroduce the Blockchain world.
+This is a Java project to indroduce the Blockchain world.
